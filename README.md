@@ -1,16 +1,30 @@
-# chat_app
+# 💬 ChatApp 
 
-A new Flutter project.
+A real-time messaging application built with Flutter & Firebase. Connect with friends instantly!
+## ✨ Features
 
-## Getting Started
+- **Real-time messaging** ⚡
+- **User authentication** 🔐 (Email)
+- **Online status** 💚
+## Screenshots
+#Login page
+![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chatlogin.jpg)
 
-This project is a starting point for a Flutter application.
+#Home page 
+![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chathome.jpg)
 
-A few resources to get you started if this is your first Flutter project:
+#chat page
+![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chat.jpg)
+## 🚀 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/0xPr0F3ss0r/chatapp.git
+## 📜 Commands
+. !tictactoe @opponent
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+. ❌⭕ Automatic win detection
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+- **Frontend**: Flutter (Android/iOS/Web)
+- **Backend**: Firebase (Firestore, Auth, Storage)
+- **State Management**: GetX
