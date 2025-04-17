@@ -7,14 +7,15 @@ A real-time messaging application built with Flutter & Firebase. Connect with fr
 - **User authentication** 🔐 (Email)
 - **Online status** 💚
 ## Screenshots
-#Login page
-![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chatlogin.jpg)
+### Login Page
+<img src="https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chatlogin.jpg" width="300" alt="Login Screen">
 
-#Home page 
-![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chathome.jpg)
+### Home Page 
+<img src="https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chathome.jpg" width="300" alt="Home Screen">
 
-#chat page
-![App Screenshot](https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chat.jpg)
+### Chat Page
+<img src="https://raw.githubusercontent.com/0xPr0F3ss0r/chat_app/f1d7f8405d3a4036851ecda37101a28b849259cd/chat.jpg" width="300" alt="Chat Screen">
+
 ## 🚀 Installation
 1. Clone the repository:
    ```bash
