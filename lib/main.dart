@@ -14,29 +14,22 @@ Future<void> main() async {
     if(Platform.isAndroid){
       await Firebase.initializeApp(
     options: const FirebaseOptions(
-      apiKey: 'AIzaSyClWNRExqIGtz8UwpiPYEIk4QnAJCOTP9g',
-      appId: '1:973328440753:android:09ca9cb6dd6d54d40eb190',
-      messagingSenderId: '973328440753',
-      projectId: 'chatapp-e6660',
+      apiKey: 'you api key',
+      appId: 'your app id in firbase',
+      messagingSenderId: 'sender id from your google service.json',
+      projectId: 'firebase project id',
     ),
   );
     }else{
       await Firebase.initializeApp();
     }
   }
-  
-  // if(Firebase.apps.isEmpty){
-  //   await initialServices();
-  // }else{
-  //   await Firebase.initializeApp();
-  // }
   runApp(const MyApp());
 }
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
